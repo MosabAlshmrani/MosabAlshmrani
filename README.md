@@ -38,12 +38,6 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
 
----
-
-## 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=MosabAlshmrani&show_icons=true&theme=default&hide_border=true)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MosabAlshmrani&layout=compact&theme=default&hide_border=true)
 
 ---
 
