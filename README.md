@@ -47,8 +47,3 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MosabAlshmrani&layout=compact&theme=default&hide_border=true)
 
 ---
-
-## 🎯 Currently
-- ⚡ Interning @ **Saudi Electricity Company (SEC)**
-- ☁️ Learning **Oracle Cloud OCI** via Mostaqbali Initiative
-- 📚 Studying Neural Networks — Karpathy Zero to Hero
