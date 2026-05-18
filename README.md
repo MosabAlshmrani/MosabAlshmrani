@@ -3,7 +3,6 @@
 > *From infrastructure to intelligence — building AI systems that actually work in production.*
 
 🎓 IT Student @ Saudi Electronic University (2026)  
-⚡ Incoming Intern @ Saudi Electricity Company (SEC)  
 🤖 Building AI platforms · Data pipelines · Automation systems  
 📍 Al Khobar, Saudi Arabia
 
