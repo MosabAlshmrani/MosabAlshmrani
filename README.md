@@ -6,7 +6,7 @@
 🤖 Building AI platforms · Data pipelines · Automation systems  
 📍 Al Khobar, Saudi Arabia
 
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosab-alshamrani](https://www.linkedin.com/in/mosab-alshamrani-6b85a0301/))
+[![LinkedIn]([https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosab-alshamrani](https://www.linkedin.com/in/mosab-alshamrani-6b85a0301/)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:mosabalshamrani@gmail.com)
 
 ---
